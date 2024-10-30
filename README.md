@@ -6,11 +6,11 @@ This add-on offers an individual signature module and helper functionalities for
  to digital **sign PDF documents in pure PHP**. 
 
 Currently, the implementation mainly adds some helpers to make the communication
-with the swisscom API easier. Only PAR requests are demonstrated and implemented yet.
+with the Swisscom API easier. Only PAR requests are demonstrated and implemented yet.
 
 
 ## Requirements
-To use this add-on you need credentials for the Swisscom MAB ETSI RDSC webservice.
+To use this add-on you need credentials for the Swisscom MAB + ETSI RDSC webservice - also known as Smart Registration & Signing Service with Multiple Authentication Broker.
 
 This add-on is developed and tested on PHP >= 8.0. Requirements of the [SetaPDF-Signer](https://www.setasign.com/signer)
 component can be found [here](https://manuals.setasign.com/setapdf-signer-manual/getting-started/#index-1).
