@@ -1,0 +1,1 @@
+# SetaPDF-Signer-Addon-Swisscom_MAB_ETSI-RDSC
